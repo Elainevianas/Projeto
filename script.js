@@ -1,5 +1,3 @@
-alert("Ola")
-
 document.addEventListener("DOMContentLoaded", function () {
         const searchInput = document.getElementById("search");
         const suggestionsList = document.getElementById("suggestions");
